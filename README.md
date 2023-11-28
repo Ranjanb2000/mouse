@@ -38,16 +38,20 @@ For detailed information about cloning visit here.
 Step 1:
 
 conda create --name gest python=3.8.5
+
 Step 2:
 
 conda activate gest
+
 Step 3:
 
 pip install -r requirements.txt
+
 Step 4:
 
 conda install PyAudio
 conda install pywin32
+
 Step 5:
 
 cd to the GitHub Repo till src folder
